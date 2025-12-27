@@ -3,4 +3,4 @@
 needs to make it wonderfully presentable.
 #### QR-Scan : [Click here to visit](https://qr-scan-card.vercel.app/) - `URL: https://qr-scan-card.vercel.app/`
 #### Dot-Connect :  [Click here to visit](https://dots-master.vercel.app/) -`URL: https://dots-master.vercel.app/`
-#### Movie-Spot :  [Click here to visit](https://movie-spot-gamma.vercel.app/) -`URL: https://movie-spot-gamma.vercel.app/`
+#### Movie-Spot :  [Click here to visit](https://movie-spots-gamma.vercel.app/) -`URL: https://movie-spots-gamma.vercel.app/`
